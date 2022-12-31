@@ -19,3 +19,4 @@ input.onButtonPressed(Button.B, function () {
     basic.showArrow(ArrowNames.West)
 })
 basic.showString("Press A")
+basic.showArrow(ArrowNames.West)
